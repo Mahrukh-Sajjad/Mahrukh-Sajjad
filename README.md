@@ -1,16 +1,29 @@
-### Hi there 👋
+⭐️ From [Mahrukh Sajjad](https://github.com/Mahrukh-Sajjad)
 
-<!--
-**Mahrukh-Sajjad/Mahrukh-Sajjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"><img alt="Banner | Mahrukh Sajjad" src="https://i.imgur.com/34fiEUG.gif" /></div>
+Welcome to my GitHub! I'm Mahrukh Sajjad, a software engineering graduate. I want to persue my career as a web developer. Currently i'm learning and working on Html, Css, Javascript, React js and Mongodb.
 
-Here are some ideas to get you started:
+### ✔️ Technologies
+- Javascript
+- React js
+- Mongodb
+- Html
+- Css
+- C++
+- Problem solving using c++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😍 Soft Skills:
+- Good Communication skills.
+- Problem solving skills.
+- Quick Learner.
+- Time management.
+- Conflict Resolution.
+- Work Ethics.
+- Decision making.
+
+### ⚡ Educational Backaground
+- Bachellors in Software Engineering (University Of Gujrat, Pakistan)
+- Web Development Certification (eRozgar)
+
+
+
