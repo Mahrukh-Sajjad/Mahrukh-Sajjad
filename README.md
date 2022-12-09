@@ -1,6 +1,6 @@
 ⭐️ From [Mahrukh Sajjad](https://github.com/Mahrukh-Sajjad)
 
-<div align="center"><img alt="Banner | Mahrukh Sajjad" src="https://i.imgur.com/34fiEUG.gif" /></div>
+<div align="center"></div>
 Welcome to my GitHub! I'm Mahrukh Sajjad, a software engineering graduate. I want to persue my career as a web developer. Currently i'm learning and working on Html, Css, Javascript, React js and Mongodb.
 
 ### ✔️ Technologies
