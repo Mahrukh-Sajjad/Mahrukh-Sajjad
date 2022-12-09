@@ -1,6 +1,6 @@
 ⭐️ From [Mahrukh Sajjad](https://github.com/Mahrukh-Sajjad)
 
-<div align="center"></div>
+<div align="center"> <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif"/> </div>
 Welcome to my GitHub! I'm Mahrukh Sajjad, a software engineering graduate. I want to persue my career as a web developer. Currently i'm learning and working on Html, Css, Javascript, React js and Mongodb.
 
 ### ✔️ Technologies
@@ -24,6 +24,9 @@ Welcome to my GitHub! I'm Mahrukh Sajjad, a software engineering graduate. I wan
 ### ⚡ Educational Backaground
 - Bachellors in Software Engineering (University Of Gujrat, Pakistan)
 - Web Development Certification (eRozgar)
+
+
+
 
 
 
